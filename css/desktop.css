@@ -1,0 +1,272 @@
+.mobile{
+    display: none;
+}
+
+.erro-404 h1{
+    font-size: 40px;
+    text-align: center;
+}
+
+.erro-404 img{
+    display: block;
+    margin: 0 auto;
+}
+
+.erro-404 article{
+    padding: 0 300px;
+    margin-bottom: 200px;
+    font-size: 18px;
+}
+
+.topo{
+    background-color: #2466af;
+    margin-bottom: 60px;
+    display: block;
+}
+
+.topo-superior{
+    padding: 35px 0;
+    border-bottom: 1px solid #fff;
+}
+
+.topo-superior img{
+    width: 215px;
+}
+
+.topo-menu{
+    background-color: #d2d3d5;
+}
+
+.topo-menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.topo-menu li {
+    float: left;
+}
+
+.topo-menu li a {
+    display: block;
+    color: #383838;
+    text-align: center;
+    font-weight: 500;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.usuario_menu li p{
+    display: block;
+    color: #000;
+    text-align: center;
+    font-weight: 500;
+    padding: 16px;
+    text-decoration: none;
+    margin: 0;
+}
+.topo-menu li a:hover {
+    background-color: #ababab;
+}
+
+.topo-menu li .nome_usuario:hover {
+    background-color: #ababab;
+}
+
+.topo-menu .nome_usuario a{
+    float: right;
+}
+
+.usuario_menu li a{
+    color: #b90213;
+    font-weight: 600;
+}
+
+.usuario_menu li a:hover{
+    color: #fff;
+    background-color: #4e141a;
+    font-weight: 600;
+}
+
+
+
+.dataTables_scroll  div.dts div.dataTables_scrollBody {
+        overflow: hidden !important;
+        height: 215px !important;
+ }
+ 
+     
+   #tabela-criancas_wrapper div.dataTables_scrollBody {
+    background: white !important;
+    height: auto !important;
+    }
+
+/* HOME */
+.home{
+    display: block;
+
+    padding-top: 150px;
+}
+
+.home-esquerda{
+    width: 35%;
+    float: left;
+}
+
+.home-esquerda article{
+    margin-bottom: 40px;
+    text-align: justify;
+}
+
+.home-esquerda button{
+    border-radius: 20px;
+    margin-right: 20px;
+   	width: 40%;
+}
+
+.home-direita button{
+    width: 130px;
+    color: #fff;
+    border-radius: 25px;
+    font-weight: 500;
+}
+
+.home-esquerda img{
+    width: 100%;
+    height: auto;
+    margin-bottom: 35px;
+}
+
+.home-direita{
+    width: 65%;
+    float: right;
+}
+
+.logo_smed_pms{
+    display: block;
+    margin: 120px auto;
+}
+
+/* HOME-MOBILE */
+.home-mobile{
+    display: none;
+}
+
+.rodape{
+    background-color: #2466af;
+    display: block;
+    padding: 20px 0;
+}
+
+.rodape img{
+    width: 220px;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+}
+
+.modalpadrao{
+    border: none;
+}
+
+.modalpadrao h3{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.modalpadrao .modal-body{
+    border-top: 10px solid #2466af;
+}
+
+.modalpadrao .modal-content, .modalpadrao .modal-header{
+    border-radius: 0;
+    border: none;
+}
+
+.modalpadrao .modal-footer{
+    border: none;
+}
+
+#modalResponsavel .modalpadrao h3{
+	text-align: center;
+	font-size: 38px;
+    font-weight: 600;
+}
+
+/* TABELAS */
+.legenda-tabela ul li{
+    margin: 0 30px 0 0;
+}
+
+.toolbar h3{
+    font-size: 16px;
+    float: left;
+    font-weight: 500;
+}
+
+.login-container{
+    width: 30%;
+}
+
+/* Login */
+#form_login{
+    padding: 0 30px;
+}
+
+#form_login label{
+    font-weight: 500;
+}
+
+#form_login small{
+   cursor: pointer;
+   text-decoration: underline;
+}
+
+#tabela-criancas td a{
+    margin: 0 5px;
+}
+
+/* Filtros */
+.validacao-documentos {
+    margin-bottom: 0;
+}
+
+.fecharedicao{
+	margin-right: 20px;
+}
+
+.home-esquerda .btcadastrohome,.home-esquerda .btalterarhome{
+	width: 40%;
+}
+
+.home-direita .btajudahome{
+	width: 15%;
+}
+
+.home-direita .btacessohome{
+	width: 25%;
+}
+
+.home-direita img{
+	width: 95%;
+	margin: 50px 0 0 0;
+}
+
+.home-direita .botaoajuda{
+	background-color: #ffa025;
+	border-color: #ffa025;
+	width: 12%;
+	margin-left: 20px;
+}
+
+.faixaaviso{
+	padding-top: 30px;
+	padding-bottom: 30px;	
+}
+
+.faixaaviso p{
+	font-size: 30px;
+	font-weight: 500;
+	text-align: center;
+}

@@ -1,0 +1,145 @@
+h1, h2{
+    font-size: 20px;
+    font-weight: bold;
+    color:  #2466af;
+}
+
+.erro-404 h1{
+    font-size: 22px;
+    text-align: center;
+}
+
+.erro-404 img{
+    display: block;
+    margin: 0 auto;
+}
+
+.erro-404 article{
+    padding: auto;
+    margin-bottom: 100px;
+    font-size: 18px;
+}
+
+.topo{
+    display: none;
+}
+
+.navbar-brand img{
+    width: 120px;
+    height: auto;
+}
+
+.bg-custom{
+    background-color: #2466af;
+}
+
+.dataTables_scroll  div.dts div.dataTables_scrollBody {
+        overflow: hidden !important;
+        height: 215px !important;
+    }
+    
+   #tabela-criancas_wrapper div.dataTables_scrollBody {
+    background: white !important;
+    height: 230px!important;
+    }
+
+/* HOME */
+.home{
+    display: none;
+}
+
+/* HOME-MOBILE */
+.home-mobile{
+    display: block;
+}
+
+/* BOX BOX-MENSAGEM */
+.box-mensagem p {
+    font-size: 12px;
+}
+
+.rodape{
+    background-color: #2466af;
+    display: block;
+    padding: 20px 0;
+}
+
+.rodape img{
+    width: 180px;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+}
+
+/* Modal Padrão */
+.modalpadrao{
+    border: none;
+}
+
+.modalpadrao h3{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.modalpadrao .modal-body{
+    border-top: 10px solid #2466af;
+}
+
+.modalpadrao .modal-content, .modalpadrao .modal-header{
+    border-radius: 0;
+    border: none;
+}
+
+/* TABELAS */
+.legenda-tabela ul li{
+    margin: 0 20px 0 0;
+}
+
+.toolbar h3{
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.fecharedicao{
+	margin-right: 0;
+}
+
+#tabela-criancas td a{
+    margin: 0 20px;
+}
+
+.home-mobile article{
+	margin-bottom: 25px;
+}
+
+.home-mobile ul{
+	padding: 0 0 0 0;
+	text-align: center;
+    list-style-position: inside;
+
+}
+
+.home-mobile li{
+
+}
+
+.home-mobile .botaoajuda{
+	background-color: #ffa025;
+	border-color: #ffa025;
+}
+
+#tabela-criancas_wrapper  .dataTables_scroll  div.dts div.dataTables_scrollBody {
+        overflow: hidden !important;
+        height: 215px !important;
+    }
+    
+.faixaaviso{
+	padding-top: 10px;
+	padding-bottom: 5px;	
+}
+
+.faixaaviso p{
+	font-size: 20px;
+	text-align: center;
+}   
